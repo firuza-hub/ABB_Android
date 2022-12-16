@@ -1,0 +1,1 @@
+C:\Users\Firuza\IdeaProjects\untitled\build\classes\kotlin\main\MainKt$doWork$1.class;C:\Users\Firuza\IdeaProjects\untitled\build\classes\kotlin\main\MainKt$runAsync$1.class;C:\Users\Firuza\IdeaProjects\untitled\build\classes\kotlin\main\MainKt$runSync$1.class;C:\Users\Firuza\IdeaProjects\untitled\build\classes\kotlin\main\MainKt.class
